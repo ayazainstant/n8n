@@ -1,0 +1,179 @@
+{
+  "menu": {
+    "Signature Burgers": [
+      {
+        "item": "Hive Beef Burger",
+        "price": "Rs. 850",
+        "description": "Juicy beef patty, cheddar cheese, grilled onions, lettuce, pickles & Hive’s special sauce."
+      },
+      {
+        "item": "Spicy Chicken Crunch",
+        "price": "Rs. 790",
+        "description": "Crispy fried chicken, jalapeños, spicy mayo, lettuce & cheese."
+      },
+      {
+        "item": "Honey BBQ Chicken",
+        "price": "Rs. 820",
+        "description": "Grilled chicken with honey BBQ glaze, slaw & cheddar on toasted brioche."
+      },
+      {
+        "item": "Double Trouble",
+        "price": "Rs. 1090",
+        "description": "Two beef patties, double cheese, caramelized onions, pickles & smoky sauce."
+      },
+      {
+        "item": "Veggie Hive Burger",
+        "price": "Rs. 720",
+        "description": "Crispy veggie patty, avocado spread, lettuce, tomatoes & house sauce."
+      }
+    ],
+    "Loaded Fries": [
+      {
+        "item": "Loaded Cheese Fries",
+        "price": "Rs. 490",
+        "description": "Crispy fries with nacho cheese, jalapeños & oregano."
+      },
+      {
+        "item": "Bacon-Style Beef Fries",
+        "price": "Rs. 580",
+        "description": "Fries topped with shredded beef, BBQ sauce & spicy mayo."
+      },
+      {
+        "item": "Chili Garlic Loaded Fries",
+        "price": "Rs. 550",
+        "description": "Spicy garlic sauce, herbs & creamy ranch over fries."
+      },
+      {
+        "item": "Classic Salted Fries",
+        "price": "Rs. 350",
+        "description": "Golden fries with sea salt & pepper."
+      }
+    ],
+    "Wings & Sides": [
+      {
+        "item": "BBQ Wings (6 pcs)",
+        "price": "Rs. 550",
+        "description": "Smoky, sweet, and tender BBQ-glazed wings."
+      },
+      {
+        "item": "Buffalo Wings (6 pcs)",
+        "price": "Rs. 550",
+        "description": "Tangy, spicy buffalo sauce with ranch dip."
+      },
+      {
+        "item": "Honey Sriracha Wings",
+        "price": "Rs. 590",
+        "description": "Sweet & spicy wings with a kick of heat."
+      },
+      {
+        "item": "Mozzarella Sticks (6 pcs)",
+        "price": "Rs. 520",
+        "description": "Cheese-filled sticks with marinara dip."
+      },
+      {
+        "item": "Onion Rings",
+        "price": "Rs. 400",
+        "description": "Crispy golden onion rings with zesty dip."
+      }
+    ],
+    "Drinks & Shakes": [
+      {
+        "item": "Chocolate Shake",
+        "price": "Rs. 400",
+        "description": "Thick, creamy & chocolaty delight."
+      },
+      {
+        "item": "Strawberry Shake",
+        "price": "Rs. 400",
+        "description": "Fresh strawberry puree with vanilla cream."
+      },
+      {
+        "item": "Oreo Shake",
+        "price": "Rs. 450",
+        "description": "Crushed Oreos blended in rich milkshake."
+      },
+      {
+        "item": "Mint Margarita",
+        "price": "Rs. 330",
+        "description": "Chilled mint drink with lime & fizz."
+      },
+      {
+        "item": "Cold Drink (500ml)",
+        "price": "Rs. 180",
+        "description": "Pepsi / 7UP / Miranda (confirm choice)."
+      },
+      {
+        "item": "Mineral Water",
+        "price": "Rs. 100",
+        "description": "Small bottled mineral water."
+      }
+    ],
+    "Deals & Combos": [
+      {
+        "deal": "BOGO Deal (Mon–Wed, 3–6pm)",
+        "price": "Rs. 850",
+        "details": "Buy 1 Hive Beef Burger, get 1 free – dine-in/delivery."
+      },
+      {
+        "deal": "Family Combo",
+        "price": "Rs. 1890",
+        "details": "2 burgers, 2 fries & 2 drinks – perfect for sharing!"
+      },
+      {
+        "deal": "Wings Lover Deal",
+        "price": "Rs. 1050",
+        "details": "12 wings (BBQ + Buffalo) + 1 drink + fries."
+      },
+      {
+        "deal": "Couple Combo",
+        "price": "Rs. 1490",
+        "details": "2 burgers + 2 drinks + 1 loaded fries."
+      },
+      {
+        "deal": "Student Snack Pack",
+        "price": "Rs. 690",
+        "details": "1 classic burger + fries + soft drink. (Valid before 5pm)"
+      }
+    ],
+    "Kids Meals": [
+      {
+        "item": "Mini Chicken Burger Meal",
+        "price": "Rs. 590",
+        "includes": "Mini burger, fries, juice box & toy."
+      },
+      {
+        "item": "Nuggets Meal (6 pcs)",
+        "price": "Rs. 560",
+        "includes": "Chicken nuggets, fries & small drink."
+      }
+    ],
+    "Add-ons": [
+      {
+        "addon": "Extra Cheese Slice",
+        "price": "Rs. 70"
+      },
+      {
+        "addon": "Fried Egg",
+        "price": "Rs. 60"
+      },
+      {
+        "addon": "Jalapeños",
+        "price": "Rs. 40"
+      },
+      {
+        "addon": "Double Patty Upgrade",
+        "price": "Rs. 220"
+      },
+      {
+        "addon": "Extra Sauce Cup",
+        "price": "Rs. 50"
+      }
+    ],
+    "Delivery Info": {
+      "zones": "Delivery available within 5km radius of each branch",
+      "time": "Average 30–45 mins (depending on area)",
+      "minimumOrder": "Rs. 700",
+      "paymentMethods": "Cash on Delivery & Card-on-Delivery both accepted"
+    }
+  }
+}
